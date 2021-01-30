@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "optical-country-303320",
+  "private_key_id": "0b29504c07eb05eb22ca6c4be87f99b216467d0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqI1cdjf8DfSp9\nsBmUYHygXX4Q+eSr9829crQnsZeIZWTRqAHGTvQakY3AMGVYDOJVGMZrEV6bu9vs\nO4ZsUa9ph5TYRQUAr6YuZXxAvpK3VTZUuAoSqAhoQO8UfWAce2mxFmp+O9/EGdkI\n+l0YxN35QinO7ekhBwLzOrj6WSf9WKT4aJ5BAscKZKLkQe4N5JUiPpbczumbnZSJ\nXcCtQTF/kUxf9QKY/7jW7Py+zKpPYsOTjCi/ZulptCs2pX+Qa+ysFjpsYZOtFLr2\nW45P7BdqX3hP+zTyyzXhOmpaLq27IAfCyJCTCLmwovHdIqACCtcPzxQDO6Vo0LAB\n7AiEua7bAgMBAAECggEAUFjHK6xiqV2jQt72fYVBZaQxREgW7wVkElsIbBRoqN+l\nSINsbx/bFG73f7L7MSVIf4JnNanqwWXqmnmT5jR/P7lpF+ckUSoiMxf3IUY+WDj0\nIvcUvrG+4qkDnuwEhv7bL2eUHBAfgObqAVzmuStDXpKZ1uCwr0m14XKyZ3vSMEg2\nCohTI2KTd5bMIumQsZF63fc6PqDank9BqrVib5Ib/2I6eT8YmoObJudP4SWllywY\nkONO9K3bTsPHDsEETVVl8oWES352+FgugXZwkgrevaByZD7/yuzXSf7ujj7U/dLt\neYQNmW9kWahVv5AxR2mRnvHMUlf8azoBBwfROph6bQKBgQDlGUmC4UDftknc3kB1\nm6XFr+Tz2wI7tHmxIuUWFybCzuVJEb+2UIGF022MG35UhmwuramaV3i5dGVuojtb\nVVmHGwpCaivC7S+c+AC/68NcKEStL9mj/TNb9mFVBSJ2icCfG6J769BMUbm09iJk\noSAUBiCUy5xAunnFjidyCE/UpwKBgQC+HbFTXdMCqRR+WlyCo8x4IO2v8eWMvr0n\n7RcZJOPsIMlgyEmKKFK+TVrMgp7sOJLctA7q9vBIxqa35Maw+fLI5FMtBEak6Gp/\nOW0l6I3JYtNIHokeCQN9u3/3IJHixsDTCrvU8Rf2lS/5BdZzFzXqsyIPgC2TIdka\nhq+rzW52rQKBgQCS8UQwOTA2DSKVEsx/YqTSBj6wljF5gAlprzsGjzTiUHfKBSNU\n2ZAp+PFTozLFHi73RZX6E86wDNMeQdoWe8jfml1bOeP1s9INORiqAJseWgmql31d\n7IJrorzNHmz7YOF2a/As0ZSZzvVw90oaByqfDUsKhQokjjaamtH8Fw61EwKBgFaU\ngysqMWymv7SDRlogan/Szywvh5C/VLmYGcrTqBDjJZKz4/nNP1F3PQCiA+okIY3t\nWlXbO7aI8WgSAgKa8dxXTyHTLrDvP4DNEE4RSHEMVpgjf+JzzGk4OKC87nNOfIYf\n/0aMvZMIgh5wcCddzKokBkD06Mx2v7561AnztnjJAoGAAlNQKyjd4OG85TF8d38s\n2dxmP+yTDG5eMCPWXzkhigKWzFr9rBfbMxOziico7Bkoc5gWOZkncsoWmCftxzFi\nPN5//DuyVuoixjiYHLE/12d/Rchlfsfcp3O3rq3ahSohwl/U0ZhRb08C/cNOBoPe\n9rXZThzHX7u9QWvZoODFVZM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-8-bswnupiarbjer62hed17rawh@optical-country-303320.iam.gserviceaccount.com",
+  "client_id": "102554069091197596978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-8-bswnupiarbjer62hed17rawh%40optical-country-303320.iam.gserviceaccount.com"
+}
